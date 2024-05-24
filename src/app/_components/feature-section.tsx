@@ -223,7 +223,7 @@ function FeatureSection() {
                 </span>
               </h3>
             </AccordionTrigger>
-            <AccordionContent>
+            <AccordionContent className="text-left">
               <ul className="list-inside list-disc [&>li]:leading-relaxed">
                 {module.episodes.map((episode) => (
                   <li key={episode.id}>{episode.title}</li>
