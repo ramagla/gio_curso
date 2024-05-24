@@ -11,7 +11,7 @@ const content = [
   {
     id: 1,
     title: "Módulo 1: Introdução",
-    data: "04 de Dezembro de 2023",
+    data: "04 de Dezembro de 2024",
     episodes: [
       { id: 1, title: "Sobre o curso" },
       { id: 2, title: "Base de conhecimento" },
@@ -20,7 +20,7 @@ const content = [
   {
     id: 2,
     title: "Módulo 2: Preparando o Ambiente",
-    data: "11 de Dezembro de 2023",
+    data: "11 de Dezembro de 2024",
     episodes: [
       { id: 1, title: "Ferramentas Necessárias" },
       { id: 2, title: "Configurando o Espaço de Trabalho" },
@@ -29,7 +29,7 @@ const content = [
   {
     id: 3,
     title: "Módulo 3: Técnicas Básicas",
-    data: "18 de Dezembro de 2023",
+    data: "18 de Dezembro de 2024",
     episodes: [
       { id: 1, title: "Introdução às Técnicas de Nail Art" },
       { id: 2, title: "Preparação das Unhas" },
@@ -41,7 +41,7 @@ const content = [
   {
     id: 4,
     title: "Módulo 4: Técnicas Avançadas",
-    data: "25 de Dezembro de 2023",
+    data: "25 de Dezembro de 2024",
     episodes: [
       { id: 1, title: "Designs Complexos" },
       { id: 2, title: "Uso de Ferramentas Especiais" },
@@ -118,7 +118,7 @@ const content = [
   {
     id: 12,
     title: "Bônus 1",
-    data: "06 de Dezembro de 2023",
+    data: "06 de Dezembro de 2024",
     episodes: [
       { id: 1, title: "Sessão Extra" },
       {
